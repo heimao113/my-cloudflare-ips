@@ -1,0 +1,7 @@
+run_time: 2026-09-07 00:27:13
+colo: NRT
+direct_ref_MBps: 0.00
+qualified_30MBps: 3
+published: 6
+top1: 172.64.53.76:443 29.69MB/s
+note: direct_ref_MBps = same-moment whole-line direct speed (independent of IP choice); if it is low, the whole line is congested at that moment
