@@ -1,9 +1,9 @@
-run_time: 2026-09-10 21:38:13
+run_time: 2026-09-11 04:37:46
 colo: NRT-first, SIN-backfill
 direct_ref_MBps: 0.00
-nrt_passed: 7
+nrt_passed: 8
 sin_passed: 30
-qualified_30MBps: 14
+qualified_30MBps: 19
 published: 20
-top1: 172.64.53.198:443 28.97MB/s
+top1: 172.64.53.139:443 30.17MB/s
 note: direct_ref_MBps = same-moment whole-line direct speed (independent of IP choice); if it is low, the whole line is congested at that moment
