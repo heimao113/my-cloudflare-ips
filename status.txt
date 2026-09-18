@@ -1,3 +1,5 @@
-run_time: 2026-09-19 07:51:19 (recovered from 04:30 run with fixed filter)
-mode: only confirmed-403 removed; timeouts kept
+run_time: 2026-09-19 07:54:04
 usable: 30
+qualified_30MBps: 6
+published: 20 (qualified first, fastest backfill)
+top1: 198.41.223.14:443 29.93MB/s
