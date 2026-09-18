@@ -1,4 +1,4 @@
-run_time: 2026-09-19 07:54:04
+run_time: 2026-09-19 07:54:40
 usable: 30
 qualified_30MBps: 6
 published: 20 (qualified first, fastest backfill)
