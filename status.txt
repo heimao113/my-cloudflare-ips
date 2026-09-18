@@ -1,3 +1,3 @@
-run_time: 2026-09-18 14:52:23 (quick filter of last merged list)
+run_time: 2026-09-18 14:58:34 (quick filter of last merged list)
 note: IPs verified usable for cm.heimao33.dpdns.org (ws handshake 200); full fresh scan running next
-usable: 13
+usable: 4
