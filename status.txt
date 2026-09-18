@@ -1,11 +1,3 @@
-run_time: 2026-09-18 04:42:49
-mode: 2-cycle best-of, consensus-first ranking
-colo: NRT-first, SIN-backfill
-direct_ref_MBps: 0.00
-nrt_passed_total: 16
-sin_passed_total: 30
-qualified_30MBps: 29
-consensus_qualified: 0
-published: 20
-top1: 104.18.32.238:443 30.25MB/s(达标1轮)
-note: consensus_qualified = IPs reaching 30MB/s in ALL 2 cycles (most reliable); direct_ref_MBps = same-moment whole-line direct speed
+run_time: 2026-09-18 14:52:23 (quick filter of last merged list)
+note: IPs verified usable for cm.heimao33.dpdns.org (ws handshake 200); full fresh scan running next
+usable: 13
