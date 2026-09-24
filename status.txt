@@ -1,12 +1,12 @@
-run_time: 2026-09-24 21:44:53
+run_time: 2026-09-25 04:49:12
 mode: 2-cycle best-of, consensus-first ranking
 colo: NRT-first, SIN-backfill
-direct_ref_MBps: 0
-nrt_passed_total: 16
+direct_ref_MBps: 0.00
+nrt_passed_total: 15
 sin_passed_total: 30
-qualified_30MBps: 26
+qualified_30MBps: 31
 consensus_qualified: 0
 blocked_1034_filtered: 0
 published: 20
-top1: 162.159.39.80:443 59.40MB/s(达标1轮)
+top1: 162.159.38.15:443 61.19MB/s(达标1轮)
 note: consensus_qualified = IPs reaching 30MB/s in ALL 2 cycles (most reliable); direct_ref_MBps = same-moment whole-line direct speed
