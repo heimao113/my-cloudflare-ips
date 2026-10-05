@@ -1,10 +1,10 @@
-run_time: 2026-10-05 21:49:51
+run_time: 2026-10-06 05:24:10
 mode: SIN, v4+v6 dual stack, best-of ranking
 colo: SG (Singapore/SIN)
 direct_ref_MBps: 0.00
-v4_passed_total: 0
-v4_published: 0
-v6_passed_total: 0
-v6_published: 0
-qualified_30MBps_v4: 0
+v4_passed_total: 30
+v4_published: 10
+v6_passed_total: 30
+v6_published: 10
+qualified_30MBps_v4: 10
 note: ip.txt = IPv4 entries; ip6.txt = IPv6 entries ([v6]:port format); blocked_403 filtered before publish
