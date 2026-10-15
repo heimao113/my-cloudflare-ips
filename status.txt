@@ -1,0 +1,10 @@
+run_time: 2026-10-15 23:06:06
+mode: v4=SIN x2 + v6=auto(每IP最低延迟机房), best-of ranking
+colo: v4=SG(SIN) v6=AUTO (电信v6不去SIN, 2026-10-14确认; v6速度门槛10MB/s)
+direct_ref_MBps: 0.00
+v4_passed_total: 30
+v4_published: 20
+v6_passed_total: 0
+v6_published: 0
+qualified_30MBps_v4: 15
+note: ip.txt = IPv4 entries; ip6.txt = IPv6 entries ([v6]:port format); blocked_403 filtered before publish
