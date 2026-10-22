@@ -1,21 +1,21 @@
 IP地址,端口号,TLS,网络延迟,下载速度,出站IP,IP类型,原始输入,数据中心,源IP位置,地区,城市,ASN号码,ASN组织
-43.175.131.30,443,true,33ms,60.76MB/s,43.168.147.254,IPv4,43.175.131.30,HKG,HK,Asia Pacific,Hong Kong,AS139341,ACE
-156.231.112.160,443,true,51ms,48.36MB/s,2602:fa4f:b00:ff3f:2098:711b:968b:aa19,IPv6,156.231.112.160,NRT,JP,Asia Pacific,Tokyo,AS61112,AKILE LTD
-103.238.129.114,8443,true,46ms,48.23MB/s,2a12:bec0:165:8068::,IPv6,103.238.129.114,NRT,JP,Asia Pacific,Tokyo,AS51847,Nearoute Limited
-166.88.14.179,443,true,51ms,44.74MB/s,2400:8d60:8::9a32:a4db,IPv6,166.88.14.179,KIX,JP,Asia Pacific,Osaka,AS149440,Evoxt Sdn. Bhd.
-50.114.113.74,443,true,44ms,42.95MB/s,2400:8d60:8::390a:dde1,IPv6,50.114.113.74,KIX,JP,Asia Pacific,Osaka,AS149440,Evoxt Sdn. Bhd.
-154.19.187.141,443,true,40ms,38.56MB/s,2400:38e0:1:4014::b,IPv6,154.19.187.141,NRT,JP,Asia Pacific,Tokyo,AS149042,Silicon Cloud Global (US)
-52.196.107.77,443,true,62ms,35.84MB/s,2406:da14:16c2:ef00:dbc9:1188:e5a0:fbf4,IPv6,52.196.107.77,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
-52.197.219.243,443,true,57ms,35.71MB/s,2406:da14:b0d:7d00:c619:4754:7734:c358,IPv6,52.197.219.243,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
-52.199.170.52,443,true,67ms,35.51MB/s,2406:da14:733:5f00:ef7d:8fb1:4504:5b93,IPv6,52.199.170.52,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
-52.197.210.248,443,true,69ms,35.34MB/s,2406:da14:18dd:c200:e86d:7b85:bc1f:7ad2,IPv6,52.197.210.248,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
-13.112.240.216,443,true,61ms,35.01MB/s,2406:da14:1995:200:b011:dfd5:61c3:3645,IPv6,13.112.240.216,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
-14.137.235.130,443,true,70ms,34.95MB/s,2401:ce20:c:6106:a202:e0f2:8900:7a1c,IPv6,14.137.235.130,NRT,JP,Asia Pacific,Tokyo,AS2497,Internet Initiative Japan Inc.
-52.193.53.17,443,true,62ms,34.80MB/s,2406:da14:1056:a500:749d:4282:b066:bd34,IPv6,52.193.53.17,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
-154.19.187.5,443,true,42ms,34.21MB/s,2400:38e0:1:40d1::9,IPv6,154.19.187.5,NRT,JP,Asia Pacific,Tokyo,AS149042,Silicon Cloud Global (US)
-140.235.37.72,443,true,58ms,33.75MB/s,2a12:bec0:689:1372::,IPv6,140.235.37.72,NRT,JP,Asia Pacific,Tokyo,AS212336,ByteVirt LLC
-45.8.173.175,443,true,52ms,33.22MB/s,2a0f:1cc6:b221:1:6e51:e95d:3592:6c22,IPv6,45.8.173.175,NRT,JP,Asia Pacific,Tokyo,AS197196,Panstar Cloud Limited
-45.192.242.135,443,true,49ms,33.13MB/s,2602:f3f2:c8:9f63:19bc:f225:d2b4:87c9,IPv6,45.192.242.135,NRT,JP,Asia Pacific,Tokyo,AS401615,ACCK LLC
-31.57.172.96,443,true,54ms,32.14MB/s,2a12:bec0:689:11a9::,IPv6,31.57.172.96,NRT,JP,Asia Pacific,Tokyo,AS212336,ByteVirt LLC
-14.137.235.154,443,true,60ms,32.04MB/s,2401:ce20:c:dd93:2fd8:348e:e9e:a06c,IPv6,14.137.235.154,NRT,JP,Asia Pacific,Tokyo,AS2497,Internet Initiative Japan Inc.
-64.204.48.68,443,true,64ms,31.09MB/s,2a14:7586:6109:1:be24:11ff:fed7:28de,IPv6,64.204.48.68,NRT,JP,Asia Pacific,Tokyo,AS206069,Cornseed Limited
+43.175.131.30,443,true,35ms,55.16MB/s,43.168.147.254,IPv4,43.175.131.30,HKG,HK,Asia Pacific,Hong Kong,AS139341,ACE
+13.193.29.106,443,true,407ms,35.39MB/s,2406:da14:1316:c300:bd92:9b12:cd97:a801,IPv6,13.193.29.106,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
+54.150.192.0,443,true,68ms,35.27MB/s,2406:da14:95a:5c00:999c:7220:9a2a:f8d3,IPv6,54.150.192.0,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
+13.193.150.127,443,true,55ms,33.81MB/s,2406:da14:9db:8700:30c6:e392:2815:1a85,IPv6,13.193.150.127,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
+35.74.153.167,443,true,73ms,32.89MB/s,2406:da14:1100:db00:2521:d368:11b7:bd31,IPv6,35.74.153.167,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
+13.125.141.213,443,true,82ms,29.48MB/s,2406:da12:b52:c200:d851:87df:419a:13d2,IPv6,13.125.141.213,ICN,KR,Asia Pacific,Seoul,AS16509,"Amazon.com, Inc."
+46.51.238.92,443,true,404ms,27.52MB/s,2406:da14:1b4a:f200:c60b:3188:5e5e:5991,IPv6,46.51.238.92,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
+54.178.93.206,443,true,69ms,26.81MB/s,2406:da14:1b1e:4900:249c:2432:1b3c:e428,IPv6,54.178.93.206,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
+18.163.135.197,443,true,105ms,16.97MB/s,2406:da1e:247:7b00:29e1:720a:4f9f:9eb4,IPv6,18.163.135.197,HKG,HK,Asia Pacific,Hong Kong,AS16509,"Amazon.com, Inc."
+43.198.210.249,443,true,116ms,15.99MB/s,2406:da1e:512:6500:db71:bd1d:b68e:f15c,IPv6,43.198.210.249,HKG,HK,Asia Pacific,Hong Kong,AS16509,"Amazon.com, Inc."
+166.88.141.31,443,true,107ms,15.38MB/s,2400:8d60:6::c1c9:55fd,IPv6,166.88.141.31,HKG,HK,Asia Pacific,Hong Kong,AS149440,Evoxt Sdn. Bhd.
+179.253.227.72,443,true,136ms,15.21MB/s,2605:52c0:2:6660:be24:11ff:fe8f:ef4,IPv6,179.253.227.72,LAX,US,North America,Los Angeles,AS906,DMIT Cloud Services
+23.246.154.11,443,true,136ms,14.91MB/s,2602:f35c:0:b::a,IPv6,23.246.154.11,SJC,US,North America,San Jose,AS402681,AYIT
+23.246.154.185,8443,true,135ms,14.83MB/s,2602:f35c:0:b9::a,IPv6,23.246.154.185,SJC,US,North America,San Jose,AS402681,AYIT
+179.253.250.189,8443,true,141ms,14.81MB/s,2605:52c0:2:16f:be24:11ff:fe88:b5be,IPv6,179.253.250.189,LAX,US,North America,Los Angeles,AS906,DMIT Cloud Services
+45.131.71.168,443,true,139ms,14.80MB/s,45.131.71.168,IPv4,45.131.71.168,TXL,DE,Europe,Berlin,AS35487,"Misaka Network, Inc."
+23.246.154.185,443,true,133ms,14.71MB/s,2602:f35c:0:b9::a,IPv6,23.246.154.185,SJC,US,North America,San Jose,AS402681,AYIT
+23.246.155.175,8443,true,131ms,14.64MB/s,2602:f35c:0:1ae::a,IPv6,23.246.155.175,SJC,US,North America,San Jose,AS402681,AYIT
+198.20.133.121,443,true,104ms,12.92MB/s,2400:8d60:6::1c4f:8baf,IPv6,198.20.133.121,HKG,HK,Asia Pacific,Hong Kong,AS149440,Evoxt Sdn. Bhd.
+62.84.162.161,443,true,246ms,10.45MB/s,2401:1da0:22:b::a,IPv6,62.84.162.161,FRA,DE,Europe,Frankfurt,AS197213,91telecom Ltd
