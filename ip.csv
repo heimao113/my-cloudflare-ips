@@ -1,21 +1,21 @@
 IP地址,端口号,TLS,网络延迟,下载速度,出站IP,IP类型,原始输入,数据中心,源IP位置,地区,城市,ASN号码,ASN组织
-43.159.4.43,443,true,34ms,59.51MB/s,43.132.233.49,IPv4,43.159.4.43,HKG,HK,Asia Pacific,Hong Kong,AS132203,"Tencent Building, Kejizhongyi Avenue"
-54.254.42.64,443,true,70ms,29.41MB/s,2406:da18:d51:c400:831f:37f4:f9bf:ad4a,IPv6,54.254.42.64,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-39.106.2.1,443,true,28ms,27.98MB/s,34.104.177.173,IPv4,39.106.2.1,NRT,JP,Asia Pacific,Tokyo,AS396982,Google LLC
-52.74.88.44,443,true,70ms,27.23MB/s,2406:da18:170c:ed00:b16f:5ec7:565:aba2,IPv6,52.74.88.44,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-52.77.77.133,443,true,68ms,26.05MB/s,52.77.77.133,IPv4,52.77.77.133,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-13.214.214.72,443,true,71ms,24.93MB/s,2406:da18:932:5d00:86ce:7d58:24fa:151,IPv6,13.214.214.72,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-13.250.194.101,443,true,70ms,24.34MB/s,2406:da18:eed:5900:411e:be83:4b91:258,IPv6,13.250.194.101,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-18.140.167.123,443,true,71ms,23.74MB/s,18.140.167.123,IPv4,18.140.167.123,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-52.221.255.160,443,true,70ms,23.66MB/s,2406:da18:19a3:3f00:dc7:371f:5d5e:2b98,IPv6,52.221.255.160,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-54.251.118.184,443,true,71ms,23.42MB/s,2406:da18:14ff:5400:4638:4833:8836:1a2b,IPv6,54.251.118.184,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-18.138.139.253,443,true,69ms,22.68MB/s,2406:da18:1902:ee00:9b2b:e1ad:bced:dc07,IPv6,18.138.139.253,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-103.27.79.4,443,true,47ms,22.26MB/s,103.27.79.4,IPv4,103.27.79.4,HKG,HK,Asia Pacific,Hong Kong,AS979,NetLab Global
-52.221.247.151,443,true,72ms,21.44MB/s,2406:da18:1d19:c400:be4d:478:9ee6:8230,IPv6,52.221.247.151,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-47.75.104.211,443,true,39ms,21.33MB/s,43.110.88.191,IPv4,47.75.104.211,SJC,US,North America,San Jose,AS45102,"Alibaba (US) Technology Co., Ltd."
-13.250.25.128,443,true,69ms,21.30MB/s,2406:da18:11aa:2a00:e54f:2d36:39d7:c479,IPv6,13.250.25.128,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-177.201.229.13,443,true,46ms,21.28MB/s,177.201.229.13,IPv4,177.201.229.13,HKG,HK,Asia Pacific,Hong Kong,AS140227,"Hong Kong Communications International Co., Limited"
-74.82.194.230,443,true,64ms,11.04MB/s,74.82.194.230,IPv4,74.82.194.230,NRT,JP,Asia Pacific,Tokyo,AS25820,IT7 Networks Inc
-38.55.123.143,443,true,46ms,10.36MB/s,2a12:ab80:4:6::5220:916d,IPv6,38.55.123.143,HKG,HK,Asia Pacific,Hong Kong,AS6134,XNNET LLC
-103.118.40.177,9443,true,38ms,10.20MB/s,2403:27c0:2000::1bd,IPv6,103.118.40.177,TPE,HK,Asia Pacific,Taipei,AS976,CoreNET Inc.
-43.159.5.120,443,true,35ms,10.09MB/s,43.164.64.69,IPv4,43.159.5.120,JED,SA,Middle East,Jeddah,AS132203,"Tencent Building, Kejizhongyi Avenue"
+18.141.83.255,443,true,71ms,30.69MB/s,2406:da18:17ae:8400:3618:891:a1a5:2e87,IPv6,18.141.83.255,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+13.250.194.101,443,true,72ms,29.53MB/s,2406:da18:eed:5900:411e:be83:4b91:258,IPv6,13.250.194.101,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+52.221.95.204,443,true,73ms,28.23MB/s,2406:da18:1dea:2700:e3e7:4e8d:ac1d:ce91,IPv6,52.221.95.204,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+18.143.176.50,443,true,71ms,27.60MB/s,18.143.176.50,IPv4,18.143.176.50,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+56.10.67.92,443,true,68ms,26.89MB/s,2406:da18:a75:1000:2679:621:8557:cab1,IPv6,56.10.67.92,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+18.140.167.123,443,true,73ms,26.87MB/s,18.140.167.123,IPv4,18.140.167.123,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+18.136.76.91,443,true,74ms,26.58MB/s,2406:da18:1ca5:c200:22ca:5ec5:e0dc:9077,IPv6,18.136.76.91,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+47.128.151.121,443,true,75ms,25.07MB/s,2406:da18:1f8c:c300:74b5:607c:19c6:c489,IPv6,47.128.151.121,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+54.251.83.99,443,true,71ms,24.98MB/s,2406:da18:612:f00:bf6:d66f:e54f:1857,IPv6,54.251.83.99,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+56.69.28.105,443,true,75ms,23.52MB/s,2406:da10:8822:4601:70a2:b394:b56:71fe,IPv6,56.69.28.105,SIN,MY,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+56.69.138.199,443,true,71ms,23.22MB/s,2406:da10:8941:8d00:c2cb:8a4f:7bbd:cc1f,IPv6,56.69.138.199,SIN,MY,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+18.136.43.39,443,true,70ms,22.09MB/s,2406:da18:485:f800:cb38:bc08:b379:3859,IPv6,18.136.43.39,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+13.250.25.128,443,true,70ms,20.58MB/s,2406:da18:11aa:2a00:e54f:2d36:39d7:c479,IPv6,13.250.25.128,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+15.197.166.3,443,true,68ms,16.64MB/s,3.76.138.151,IPv4,15.197.166.3,FRA,DE,Europe,Frankfurt,AS16509,"Amazon.com, Inc."
+103.27.79.4,443,true,51ms,13.29MB/s,103.27.79.4,IPv4,103.27.79.4,HKG,HK,Asia Pacific,Hong Kong,AS979,NetLab Global
+166.117.33.104,443,true,73ms,12.69MB/s,3.81.39.210,IPv4,166.117.33.104,IAD,US,North America,Ashburn,AS14618,"Amazon.com, Inc."
+18.142.2.17,443,true,72ms,11.52MB/s,2406:da18:ac:1a00:a73c:9158:cd8e:782e,IPv6,18.142.2.17,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+103.68.223.29,443,true,39ms,10.96MB/s,2402:c480:3001:1504:1c00:bbff:fe00:980,IPv6,103.68.223.29,NRT,JP,Asia Pacific,Tokyo,AS63916,IPTELECOM Global
+43.161.220.143,443,true,46ms,10.85MB/s,43.161.220.143,IPv4,43.161.220.143,HKG,HK,Asia Pacific,Hong Kong,AS132203,"Tencent Building, Kejizhongyi Avenue"
+43.159.5.120,443,true,36ms,10.69MB/s,43.164.65.172,IPv4,43.159.5.120,JED,SA,Middle East,Jeddah,AS132203,"Tencent Building, Kejizhongyi Avenue"
