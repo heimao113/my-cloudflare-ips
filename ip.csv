@@ -1,21 +1,21 @@
 IP地址,端口号,TLS,网络延迟,下载速度,出站IP,IP类型,原始输入,数据中心,源IP位置,地区,城市,ASN号码,ASN组织
-43.159.4.43,443,true,36ms,59.64MB/s,124.156.112.250,IPv4,43.159.4.43,HKG,HK,Asia Pacific,Hong Kong,AS132203,"Tencent Building, Kejizhongyi Avenue"
-43.159.4.59,443,true,34ms,56.12MB/s,18.140.158.225,IPv4,43.159.4.59,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-168.93.214.71,443,true,40ms,49.76MB/s,2400:8d60:8::105a:7516,IPv6,168.93.214.71,KIX,JP,Asia Pacific,Osaka,AS149440,Evoxt Sdn. Bhd.
-185.200.66.103,443,true,43ms,46.87MB/s,2a12:a301:2012::1031,IPv6,185.200.66.103,NRT,JP,Asia Pacific,Tokyo,AS3258,xTom Japan Corporation
-74.82.195.142,443,true,40ms,46.40MB/s,74.82.195.142,IPv4,74.82.195.142,NRT,JP,Asia Pacific,Tokyo,AS25820,IT7 Networks Inc
-45.66.129.247,443,true,43ms,46.34MB/s,2a12:a304:4:c5f::a,IPv6,45.66.129.247,NRT,JP,Asia Pacific,Tokyo,AS3258,xTom Japan Corporation
-185.200.66.165,443,true,45ms,45.31MB/s,2a12:a301:2012::109c,IPv6,185.200.66.165,NRT,JP,Asia Pacific,Tokyo,AS3258,xTom Japan Corporation
-194.104.147.253,443,true,43ms,45.02MB/s,2407:b9c0:f001:186:5054:ff:fec8:e998,IPv6,194.104.147.253,HKG,HK,Asia Pacific,Hong Kong,AS23961,"Misaka Network, Inc."
-195.245.241.92,443,true,45ms,44.58MB/s,195.245.241.92,IPv4,195.245.241.92,NRT,JP,Asia Pacific,Tokyo,AS3258,xTom Japan Corporation
-103.27.187.154,443,true,46ms,44.33MB/s,2403:ad80:89:4c00:15:0:8cbc:1a9c,IPv6,103.27.187.154,NRT,JP,Asia Pacific,Tokyo,AS134835,Starry Network Limited
-45.66.129.128,443,true,44ms,43.94MB/s,2a12:a304:4:b85::a,IPv6,45.66.129.128,NRT,JP,Asia Pacific,Tokyo,AS3258,xTom Japan Corporation
-34.92.1.142,443,true,45ms,43.41MB/s,34.92.1.142,IPv4,34.92.1.142,HKG,HK,Asia Pacific,Hong Kong,AS396982,Google LLC
-218.102.64.147,27015,true,43ms,40.93MB/s,218.102.64.147,IPv4,218.102.64.147,HKG,HK,Asia Pacific,Hong Kong,AS4760,HKT Limited
-96.126.130.117,443,true,43ms,40.64MB/s,2400:8d60:8::44bf:7e0,IPv6,96.126.130.117,KIX,JP,Asia Pacific,Osaka,AS149440,Evoxt Sdn. Bhd.
-96.126.130.156,443,true,42ms,40.41MB/s,2400:8d60:8::77b6:2313,IPv6,96.126.130.156,KIX,JP,Asia Pacific,Osaka,AS149440,Evoxt Sdn. Bhd.
-43.159.1.102,443,true,33ms,39.80MB/s,43.164.64.36,IPv4,43.159.1.102,RUH,SA,Middle East,Riyadh,AS132203,"Tencent Building, Kejizhongyi Avenue"
-151.241.128.178,443,true,45ms,37.56MB/s,151.241.128.178,IPv4,151.241.128.178,NRT,JP,Asia Pacific,Tokyo,AS215023,Limee Network Ltd
-168.93.214.180,443,true,41ms,36.70MB/s,2400:8d60:8::b97d:341e,IPv6,168.93.214.180,KIX,JP,Asia Pacific,Osaka,AS149440,Evoxt Sdn. Bhd.
-23.141.52.44,443,true,45ms,35.69MB/s,2400:c620:12:2a::a,IPv6,23.141.52.44,SIN,HK,Asia Pacific,Singapore,AS150452,LANDUPS LIMITED
-23.147.172.131,443,true,35ms,30.58MB/s,2400:c620:28:63f9::1,IPv6,23.147.172.131,HKG,HK,Asia Pacific,Hong Kong,AS150452,LANDUPS LIMITED
+13.159.196.28,443,true,70ms,45.80MB/s,2406:da14:79:4e00:9dd6:3500:d97b:9faa,IPv6,13.159.196.28,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
+13.115.231.200,443,true,67ms,26.42MB/s,2406:da14:d66:ae00:48a8:358d:166c:8afc,IPv6,13.115.231.200,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
+13.193.195.4,443,true,69ms,22.76MB/s,2406:da14:19e7:3e00:a000:36a9:f6f7:5e57,IPv6,13.193.195.4,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
+179.253.247.190,443,true,138ms,15.49MB/s,2605:52c0:2:6ca1:be24:11ff:fe4c:728e,IPv6,179.253.247.190,LAX,US,North America,Los Angeles,AS906,DMIT Cloud Services
+138.128.194.48,443,true,133ms,15.25MB/s,2607:8700:5500:1902::2,IPv6,138.128.194.48,LAX,US,North America,Los Angeles,AS25820,IT7 Networks Inc
+179.255.137.148,443,true,136ms,15.14MB/s,2a09:bac1:76c0:1a98::48c:41,IPv6,179.255.137.148,LAX,US,North America,Los Angeles,AS13335,"Cloudflare, Inc."
+179.255.141.19,443,true,137ms,15.04MB/s,2605:52c0:2:713e:be24:11ff:fe7d:2415,IPv6,179.255.141.19,LAX,US,North America,Los Angeles,AS906,DMIT Cloud Services
+179.255.119.131,443,true,137ms,14.88MB/s,2605:52c0:2:69bf:be24:11ff:fe53:d53b,IPv6,179.255.119.131,LAX,US,North America,Los Angeles,AS906,DMIT Cloud Services
+179.255.122.200,443,true,137ms,14.88MB/s,2605:52c0:2:50e:be24:11ff:fe15:65d,IPv6,179.255.122.200,LAX,US,North America,Los Angeles,AS906,DMIT Cloud Services
+154.17.12.104,443,true,137ms,14.84MB/s,2605:52c0:2:5252:be24:11ff:fe00:f075,IPv6,154.17.12.104,LAX,US,North America,Los Angeles,AS906,DMIT Cloud Services
+179.255.103.84,443,true,136ms,14.74MB/s,2605:52c0:2:6723:be24:11ff:fe63:76b8,IPv6,179.255.103.84,LAX,US,North America,Los Angeles,AS906,DMIT Cloud Services
+23.148.204.247,443,true,138ms,14.73MB/s,23.148.204.247,IPv4,23.148.204.247,LAX,US,North America,Los Angeles,AS979,NetLab Global
+23.246.154.87,443,true,131ms,14.68MB/s,2602:f35c:0:57::a,IPv6,23.246.154.87,SJC,US,North America,San Jose,AS402681,AYIT
+179.255.123.79,443,true,137ms,14.62MB/s,2605:52c0:2:66da:be24:11ff:feaf:6290,IPv6,179.255.123.79,LAX,US,North America,Los Angeles,AS906,DMIT Cloud Services
+179.255.136.124,443,true,135ms,14.58MB/s,2605:52c0:2:6fd9:be24:11ff:febd:72d1,IPv6,179.255.136.124,LAX,US,North America,Los Angeles,AS906,DMIT Cloud Services
+179.253.234.228,443,true,141ms,14.56MB/s,2605:52c0:2:46c:be24:11ff:fe09:4ebf,IPv6,179.253.234.228,LAX,US,North America,Los Angeles,AS906,DMIT Cloud Services
+207.57.141.230,8443,true,137ms,14.52MB/s,207.57.141.230,IPv4,207.57.141.230,LAX,US,North America,Los Angeles,AS1054,Zont LLC
+74.211.109.226,443,true,133ms,13.66MB/s,74.211.109.226,IPv4,74.211.109.226,LAX,US,North America,Los Angeles,AS25820,IT7 Networks Inc
+47.95.120.20,443,true,29ms,13.49MB/s,47.95.120.20,IPv4,47.95.120.20,LAX,CN,North America,Los Angeles,AS37963,"Hangzhou Alibaba Advertising Co.,Ltd."
+43.159.5.120,443,true,374ms,11.59MB/s,43.164.64.41,IPv4,43.159.5.120,JED,SA,Middle East,Jeddah,AS132203,"Tencent Building, Kejizhongyi Avenue"
