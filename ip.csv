@@ -1,31 +1,21 @@
-IP地址,端口号,TLS,网络延迟,下载速度,出站IP,IP类型,原始输入,数据中心,源IP位置,地区,城市,ASN号码,ASN组织
-35.77.89.19,443,true,46ms,33.51MB/s,2406:da14:1915:600:e88a:653a:4f34:a4b,IPv6,35.77.89.19,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
-54.150.177.255,443,true,51ms,32.25MB/s,2406:da14:4d4:7100:2935:5256:b9f3:f04d,IPv6,54.150.177.255,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
-54.150.122.239,443,true,74ms,27.64MB/s,2406:da14:1a7f:6800:9bf3:7f8b:b3e0:4ce0,IPv6,54.150.122.239,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
-13.158.86.236,443,true,76ms,27.49MB/s,2406:da14:87e:4301:270b:1101:e558:448b,IPv6,13.158.86.236,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
-13.251.155.142,443,true,75ms,25.40MB/s,2406:da18:1a96:f00:b29:a9c5:5b21:4408,IPv6,13.251.155.142,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-13.212.37.28,443,true,73ms,25.13MB/s,13.212.37.28,IPv4,13.212.37.28,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-54.116.249.102,443,true,94ms,24.89MB/s,2406:da12:dcc:b000:a2c0:c656:a598:2d22,IPv6,54.116.249.102,ICN,KR,Asia Pacific,Seoul,AS16509,"Amazon.com, Inc."
-56.69.39.99,443,true,81ms,24.45MB/s,2406:da10:8aaa:3f00:8862:1b26:165e:9ce7,IPv6,56.69.39.99,SIN,MY,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-43.217.6.126,443,true,78ms,24.13MB/s,2406:da10:8d81:d000:e1cf:4046:18ae:ba9b,IPv6,43.217.6.126,SIN,MY,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-8.209.237.99,443,true,79ms,23.79MB/s,8.209.237.99,IPv4,8.209.237.99,NRT,JP,Asia Pacific,Tokyo,AS45102,"Alibaba (US) Technology Co., Ltd."
-13.113.192.247,443,true,68ms,23.14MB/s,2406:da14:4c6:e100:6f1f:4ce5:71cc:dc4e,IPv6,13.113.192.247,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
-56.69.239.164,443,true,73ms,22.57MB/s,2406:da10:8346:6401:4bfc:6ed3:4f36:ce78,IPv6,56.69.239.164,SIN,MY,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-15.232.127.251,443,true,87ms,21.70MB/s,2406:da19:1fb:1200:61d7:10fe:5a5e:f306,IPv6,15.232.127.251,CGK,ID,Asia Pacific,Jakarta,AS16509,"Amazon.com, Inc."
-18.162.147.146,443,true,109ms,21.28MB/s,2406:da1e:ac0:a100:af28:49f6:5c32:d3ab,IPv6,18.162.147.146,HKG,HK,Asia Pacific,Hong Kong,AS16509,"Amazon.com, Inc."
-18.162.228.199,443,true,119ms,20.79MB/s,18.162.228.199,IPv4,18.162.228.199,HKG,HK,Asia Pacific,Hong Kong,AS16509,"Amazon.com, Inc."
-8.136.113.156,443,true,15ms,20.52MB/s,47.85.43.78,IPv4,8.136.113.156,IAD,US,North America,Ashburn,AS45102,"Alibaba (US) Technology Co., Ltd."
-50.114.180.119,443,true,108ms,18.52MB/s,2400:8d60:6::637f:ccc8,IPv6,50.114.180.119,HKG,HK,Asia Pacific,Hong Kong,AS149440,Evoxt Sdn. Bhd.
-151.158.0.128,443,true,117ms,18.41MB/s,151.158.0.128,IPv4,151.158.0.128,HKG,HK,Asia Pacific,Hong Kong,AS149440,Evoxt Sdn. Bhd.
-8.216.30.250,443,true,61ms,17.92MB/s,8.216.30.250,IPv4,8.216.30.250,NRT,JP,Asia Pacific,Tokyo,AS45102,"Alibaba (US) Technology Co., Ltd."
-16.163.135.61,443,true,116ms,17.76MB/s,2406:da1e:300:3200:84ee:5088:227f:906c,IPv6,16.163.135.61,HKG,HK,Asia Pacific,Hong Kong,AS16509,"Amazon.com, Inc."
-43.213.47.40,443,true,96ms,16.98MB/s,2406:da1c:8abf:c000:1936:c43d:8f0:11bf,IPv6,43.213.47.40,TPE,TW,Asia Pacific,Taipei,AS16509,"Amazon.com, Inc."
-18.167.61.208,443,true,110ms,16.91MB/s,2406:da1e:3c5:7100:892b:2f91:4bc6:3d3e,IPv6,18.167.61.208,HKG,HK,Asia Pacific,Hong Kong,AS16509,"Amazon.com, Inc."
-18.163.194.240,443,true,110ms,15.20MB/s,2406:da1e:2c5:7900:130e:3acb:dad8:83f2,IPv6,18.163.194.240,HKG,HK,Asia Pacific,Hong Kong,AS16509,"Amazon.com, Inc."
-16.162.178.16,443,true,111ms,15.17MB/s,2406:da1e:631:7800:8121:d074:ed77:e7ca,IPv6,16.162.178.16,HKG,HK,Asia Pacific,Hong Kong,AS16509,"Amazon.com, Inc."
-50.114.180.237,443,true,104ms,15.00MB/s,2400:8d60:6::1afe:9d1e,IPv6,50.114.180.237,HKG,HK,Asia Pacific,Hong Kong,AS149440,Evoxt Sdn. Bhd.
-23.26.201.65,443,true,101ms,13.65MB/s,2400:8d60:6::f8f0:a1c7,IPv6,23.26.201.65,HKG,HK,Asia Pacific,Hong Kong,AS149440,Evoxt Sdn. Bhd.
-166.88.55.145,443,true,104ms,12.56MB/s,2400:8d60:6::426f:3622,IPv6,166.88.55.145,HKG,HK,Asia Pacific,Hong Kong,AS149440,Evoxt Sdn. Bhd.
-166.117.43.120,443,true,80ms,12.32MB/s,54.90.99.156,IPv4,166.117.43.120,IAD,US,North America,Ashburn,AS14618,"Amazon.com, Inc."
-108.165.147.65,443,true,101ms,12.02MB/s,2400:8d60:6::7ec4:31c0,IPv6,108.165.147.65,HKG,HK,Asia Pacific,Hong Kong,AS149440,Evoxt Sdn. Bhd.
-38.55.123.143,443,true,39ms,10.56MB/s,2a12:ab80:4:6::5220:916d,IPv6,38.55.123.143,HKG,HK,Asia Pacific,Hong Kong,AS6134,XNNET LLC
+﻿IP地址,端口号,TLS,网络延迟,下载速度,出站IP,IP类型,原始输入,数据中心,源IP位置,地区,城市,ASN号码,ASN组织
+43.159.4.43,443,true,36ms,58.27MB/s,101.32.204.218,IPv4,43.159.4.43,HKG,HK,Asia Pacific,Hong Kong,AS132203,"Tencent Building, Kejizhongyi Avenue"
+8.217.171.151,8443,true,39ms,54.08MB/s,8.217.171.151,IPv4,8.217.171.151,HKG,HK,Asia Pacific,Hong Kong,AS45102,"Alibaba (US) Technology Co., Ltd."
+194.104.147.253,443,true,44ms,49.69MB/s,2407:b9c0:f001:186:5054:ff:fec8:e998,IPv6,194.104.147.253,HKG,HK,Asia Pacific,Hong Kong,AS23961,"Misaka Network, Inc."
+45.153.245.217,443,true,42ms,48.46MB/s,2a12:a304:4:842::a,IPv6,45.153.245.217,NRT,JP,Asia Pacific,Tokyo,AS3258,xTom Japan Corporation
+14.137.230.188,443,true,42ms,47.23MB/s,2a0e:97c0:3f4:1::20f,IPv6,14.137.230.188,NRT,JP,Asia Pacific,Tokyo,AS205548,Zouter Limited
+62.106.75.2,443,true,44ms,47.10MB/s,2a12:a304:4:cc2::a,IPv6,62.106.75.2,NRT,JP,Asia Pacific,Tokyo,AS3258,xTom Japan Corporation
+103.20.222.136,443,true,43ms,46.00MB/s,103.20.222.136,IPv4,103.20.222.136,HKG,HK,Asia Pacific,Hong Kong,AS40065,CNSERVERS LLC
+45.66.129.225,443,true,41ms,45.37MB/s,2a12:a304:4:bd5::a,IPv6,45.66.129.225,NRT,JP,Asia Pacific,Tokyo,AS3258,xTom Japan Corporation
+152.175.8.45,10443,true,58ms,45.18MB/s,172.81.111.251,IPv4,152.175.8.45,HKG,HK,Asia Pacific,Hong Kong,AS400618,Prime Security Corp.
+166.88.98.45,443,true,41ms,42.82MB/s,2400:8d60:8::1a14:46bc,IPv6,166.88.98.45,KIX,JP,Asia Pacific,Osaka,AS149440,Evoxt Sdn. Bhd.
+45.129.9.222,443,true,43ms,42.24MB/s,2a12:a304:4:620::a,IPv6,45.129.9.222,NRT,JP,Asia Pacific,Tokyo,AS3258,xTom Japan Corporation
+34.92.1.142,443,true,37ms,42.23MB/s,34.92.1.142,IPv4,34.92.1.142,HKG,HK,Asia Pacific,Hong Kong,AS396982,Google LLC
+216.23.121.83,443,true,45ms,41.96MB/s,2a0e:97c0:3f4:1::462,IPv6,216.23.121.83,NRT,JP,Asia Pacific,Tokyo,AS205548,Zouter Limited
+103.27.187.132,443,true,43ms,37.52MB/s,2403:ad80:89:4c00:15:0:4efa:9cbf,IPv6,103.27.187.132,NRT,JP,Asia Pacific,Tokyo,AS134835,Starry Network Limited
+185.220.238.223,443,true,43ms,37.32MB/s,185.220.238.223,IPv4,185.220.238.223,NRT,JP,Asia Pacific,Tokyo,AS38136,Akari Networks
+112.118.151.231,443,true,62ms,37.20MB/s,112.118.151.231,IPv4,112.118.151.231,HKG,HK,Asia Pacific,Hong Kong,AS4760,HKT Limited
+158.180.95.26,8443,true,54ms,36.10MB/s,158.180.95.26,IPv4,158.180.95.26,ICN,KR,Asia Pacific,Seoul,AS31898,Oracle Corporation
+50.114.113.74,443,true,39ms,34.68MB/s,2400:8d60:8::390a:dde1,IPv6,50.114.113.74,KIX,JP,Asia Pacific,Osaka,AS149440,Evoxt Sdn. Bhd.
+8.218.20.114,8443,true,39ms,34.33MB/s,8.218.20.114,IPv4,8.218.20.114,HKG,HK,Asia Pacific,Hong Kong,AS45102,"Alibaba (US) Technology Co., Ltd."
+23.141.52.44,443,true,39ms,33.25MB/s,2400:c620:12:2a::a,IPv6,23.141.52.44,SIN,HK,Asia Pacific,Singapore,AS150452,LANDUPS LIMITED
